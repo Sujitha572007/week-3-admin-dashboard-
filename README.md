@@ -7,7 +7,7 @@ The dashboard provides an overview of users, ticket sales, revenue, scheduling, 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 📊 **Dashboard Cards**
   - Total Users
